@@ -3,3 +3,6 @@
 Simple Angular app to help a staffing agency manage its stable of heroes
 
 Per tutorial on Angular website
+
+deployed on GitHub Pages
+https://kburns5c.github.io/tour-of-heroes/
